@@ -2,7 +2,7 @@
 class Program
 {
     /*
-     * Complete the 'getTotalGoals' function below.
+     * Complete the 'FilledOrders' function below.
      *
      * The function is expected to return an INTEGER. Expected Output: 2 
      * The function accepts following parameters:
