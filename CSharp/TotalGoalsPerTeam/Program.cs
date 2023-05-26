@@ -21,7 +21,7 @@ class Result
     /*
      * Complete the 'getTotalGoals' function below.
      *
-     * The function is expected to return an INTEGER. Expected Output: 
+     * The function is expected to return an INTEGER. Expected Output: 35 
      * The function accepts following parameters:
      *  1. STRING team "Barcelona"
      *  2. INTEGER year "2011"
