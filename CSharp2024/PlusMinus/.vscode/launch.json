@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        // {
+        //     "name": "C#: PlusMinus",
+        //     "type": "dotnet",
+        //     "request": "launch",
+        //     "projectPath": "${workspaceFolder}/PlusMinus/PlusMinus.csproj",
+        //     "launchConfigurationId": "TargetFramework=;PlusMinus"
+        // },
+        {
+            "name": "C#: MinMaxSum",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/MinMaxSum/MinMaxSum.csproj",
+            "launchConfigurationId": "TargetFramework=;MinMaxSum"
+        }
+    ]
+}
